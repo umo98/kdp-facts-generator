@@ -5,7 +5,7 @@ import re
 
 # --- Sabitler ---
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL_NAME = "openrouter/owl-alpha"
+MODEL_NAME = "ibm-granite/granite-4.1-8b"
 
 st.set_page_config(page_title="KDP Facts Generator", layout="wide")
 
